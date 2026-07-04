@@ -136,6 +136,6 @@ Site Saarthi is designed and developed by:
 - Varun Maurya  
 - Prakash Mandal 
 - Shubham Prajapati 
-- Mitesh Purohit  
+  
 
 We are a team focused on solving real-world inefficiencies in construction management through scalable and practical technology solutions.
